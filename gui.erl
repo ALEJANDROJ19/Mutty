@@ -34,3 +34,5 @@ loop(Frame)->
             io:format("gui: strange message ~w ~n", [Error]),
             loop(Frame)
     end.
+
+    
